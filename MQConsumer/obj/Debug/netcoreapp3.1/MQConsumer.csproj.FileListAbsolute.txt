@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\obj\Debug\netcoreapp3.1\MQConsumer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\obj\Debug\netcoreapp3.1\MQConsumer.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\obj\Debug\netcoreapp3.1\MQConsumer.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\obj\Debug\netcoreapp3.1\MQConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.exe
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.deps.json
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.runtimeconfig.json
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.dll
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.pdb
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\NewLife.Core.dll
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\NewLife.RocketMQ.dll
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\obj\Debug\netcoreapp3.1\MQConsumer.csproj.CopyComplete
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\obj\Debug\netcoreapp3.1\MQConsumer.dll
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\obj\Debug\netcoreapp3.1\MQConsumer.pdb
+C:\Users\Administrator\source\repos\MQDemo\MQConsumer\obj\Debug\netcoreapp3.1\MQConsumer.genruntimeconfig.cache

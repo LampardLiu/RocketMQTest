@@ -1,0 +1,53 @@
+﻿#Software: MQProducer
+#ProcessID: 20620 x64
+#AppDomain: MQProducer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.dll
+#ApplicationType: Console
+#CLR: 5.0.0, .NET 5.0.0-rc.2.20475.5
+#OS: Microsoft Windows NT 10.0.17763.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-29
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+08:50:25.451  1 N - [Name]集群地址：Tcp://127.0.0.1:9876
+08:50:25.457  1 N - [Name]正在连接[Tcp://127.0.0.1:9876]
+08:50:25.527  1 N - Tcp.Open Tcp://0.0.0.0=>127.0.0.1:9876
+08:50:25.643  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETCoreApp,Version=v5.0
+08:50:25.643  1 N - X组件核心库 ©2002-2021 NewLife
+08:50:25.643  1 N - MQProducer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v5.0
+08:50:25.643  1 N - MQProducer 
+08:50:25.643  1 N - 发现Broker[broker-a]: 172.10.11.233:10911
+08:50:25.651  1 N - [broker-a]集群地址：Tcp://172.10.11.233:10911
+08:50:25.651  1 N - [broker-a]正在连接[Tcp://172.10.11.233:10911]
+08:50:25.651  1 N - Tcp.Open Tcp://0.0.0.0=>172.10.11.233:10911
+
+#Software: MQProducer
+#ProcessID: 4704 x64
+#AppDomain: MQProducer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.dll
+#ApplicationType: Console
+#CLR: 5.0.0, .NET 5.0.0-rc.2.20475.5
+#OS: Microsoft Windows NT 10.0.17763.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-29
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+08:53:16.143  1 N - [Name]集群地址：Tcp://127.0.0.1:9876
+08:53:16.146  1 N - [Name]正在连接[Tcp://127.0.0.1:9876]
+08:53:16.198  1 N - Tcp.Open Tcp://0.0.0.0=>127.0.0.1:9876
+08:53:16.292  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETCoreApp,Version=v5.0
+08:53:16.292  1 N - X组件核心库 ©2002-2021 NewLife
+08:53:16.292  1 N - MQProducer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v5.0
+08:53:16.293  1 N - MQProducer 
+08:53:16.293  1 N - 发现Broker[broker-a]: 172.10.11.233:10911
+08:53:16.299  1 N - [broker-a]集群地址：Tcp://172.10.11.233:10911
+08:53:16.299  1 N - [broker-a]正在连接[Tcp://172.10.11.233:10911]
+08:53:16.300  1 N - Tcp.Open Tcp://0.0.0.0=>172.10.11.233:10911

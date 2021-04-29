@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A1s1Y7yNkuyKnjqBgfnidkBht0sUeWj4/czBRj46Np0ewy8xK2u7DJZ6iPZ44rnVovBA2fJYcIlRAJhtuNsnqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\MQDemo\\RocketMQTest\\MQConsumer\\MQConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newlife.core\\8.10.2021.404\\newlife.core.8.10.2021.404.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newlife.rocketmq\\1.5.2021.410\\newlife.rocketmq.1.5.2021.410.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

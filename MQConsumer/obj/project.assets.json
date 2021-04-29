@@ -1,0 +1,162 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NewLife.Core/8.10.2021.404": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NewLife.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NewLife.Core.dll": {}
+        }
+      },
+      "NewLife.RocketMQ/1.5.2021.410": {
+        "type": "package",
+        "dependencies": {
+          "NewLife.Core": "8.10.2021.404"
+        },
+        "compile": {
+          "lib/netstandard2.0/NewLife.RocketMQ.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NewLife.RocketMQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewLife.Core/8.10.2021.404": {
+      "sha512": "/5HPB9ofIDL6BoTbScuNJWJ4C21myKaIfroCHpXuN8475XYSaEEICDb2HAwY2k4M8yxNsELc3TI/oA4+cn45eQ==",
+      "type": "package",
+      "path": "newlife.core/8.10.2021.404",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "leaf.png",
+        "lib/net40/NewLife.Core.dll",
+        "lib/net40/NewLife.Core.pdb",
+        "lib/net40/NewLife.Core.xml",
+        "lib/net45/NewLife.Core.dll",
+        "lib/net45/NewLife.Core.pdb",
+        "lib/net45/NewLife.Core.xml",
+        "lib/net46/NewLife.Core.dll",
+        "lib/net46/NewLife.Core.pdb",
+        "lib/net46/NewLife.Core.xml",
+        "lib/net5.0/NewLife.Core.dll",
+        "lib/net5.0/NewLife.Core.pdb",
+        "lib/net5.0/NewLife.Core.xml",
+        "lib/netstandard2.0/NewLife.Core.dll",
+        "lib/netstandard2.0/NewLife.Core.pdb",
+        "lib/netstandard2.0/NewLife.Core.xml",
+        "newlife.core.8.10.2021.404.nupkg.sha512",
+        "newlife.core.nuspec"
+      ]
+    },
+    "NewLife.RocketMQ/1.5.2021.410": {
+      "sha512": "ngw+WTiz6mp8eMZw3Wz37N04iCmXYisAKtSLPMtRrj7z3I+FcT65t9HRXombpU3objo4LyA4JfwWTfvf4v7vSg==",
+      "type": "package",
+      "path": "newlife.rocketmq/1.5.2021.410",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "leaf.png",
+        "lib/net40/NewLife.RocketMQ.dll",
+        "lib/net40/NewLife.RocketMQ.pdb",
+        "lib/net40/NewLife.RocketMQ.xml",
+        "lib/net45/NewLife.RocketMQ.dll",
+        "lib/net45/NewLife.RocketMQ.pdb",
+        "lib/net45/NewLife.RocketMQ.xml",
+        "lib/net5.0/NewLife.RocketMQ.dll",
+        "lib/net5.0/NewLife.RocketMQ.pdb",
+        "lib/net5.0/NewLife.RocketMQ.xml",
+        "lib/netstandard2.0/NewLife.RocketMQ.dll",
+        "lib/netstandard2.0/NewLife.RocketMQ.pdb",
+        "lib/netstandard2.0/NewLife.RocketMQ.xml",
+        "newlife.rocketmq.1.5.2021.410.nupkg.sha512",
+        "newlife.rocketmq.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "NewLife.RocketMQ >= 1.5.2021.410"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\MQDemo\\RocketMQTest\\MQConsumer\\MQConsumer.csproj",
+      "projectName": "MQConsumer",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\MQDemo\\RocketMQTest\\MQConsumer\\MQConsumer.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\MQDemo\\RocketMQTest\\MQConsumer\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "NewLife.RocketMQ": {
+            "target": "Package",
+            "version": "[1.5.2021.410, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.2.20479.15\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

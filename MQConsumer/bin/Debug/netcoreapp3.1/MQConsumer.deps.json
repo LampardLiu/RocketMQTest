@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MQConsumer/1.0.0": {
+        "dependencies": {
+          "NewLife.RocketMQ": "1.5.2021.410"
+        },
+        "runtime": {
+          "MQConsumer.dll": {}
+        }
+      },
+      "NewLife.Core/8.10.2021.404": {
+        "runtime": {
+          "lib/netstandard2.0/NewLife.Core.dll": {
+            "assemblyVersion": "8.10.7764.42056",
+            "fileVersion": "8.10.2021.404"
+          }
+        }
+      },
+      "NewLife.RocketMQ/1.5.2021.410": {
+        "dependencies": {
+          "NewLife.Core": "8.10.2021.404"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NewLife.RocketMQ.dll": {
+            "assemblyVersion": "1.5.7770.15893",
+            "fileVersion": "1.5.2021.410"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MQConsumer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewLife.Core/8.10.2021.404": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/5HPB9ofIDL6BoTbScuNJWJ4C21myKaIfroCHpXuN8475XYSaEEICDb2HAwY2k4M8yxNsELc3TI/oA4+cn45eQ==",
+      "path": "newlife.core/8.10.2021.404",
+      "hashPath": "newlife.core.8.10.2021.404.nupkg.sha512"
+    },
+    "NewLife.RocketMQ/1.5.2021.410": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ngw+WTiz6mp8eMZw3Wz37N04iCmXYisAKtSLPMtRrj7z3I+FcT65t9HRXombpU3objo4LyA4JfwWTfvf4v7vSg==",
+      "path": "newlife.rocketmq/1.5.2021.410",
+      "hashPath": "newlife.rocketmq.1.5.2021.410.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Farseer.Net.MQ.RocketMQ" Version="2.4.0" />
+    <PackageReference Include="NewLife.RocketMQ" Version="1.5.2021.410" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,43 @@
+﻿#Software: MQConsumer
+#ProcessID: 21892 x64
+#AppDomain: MQConsumer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.dll
+#ApplicationType: Console
+#CLR: 3.1.7, .NET Core 3.1.7
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-26
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+15:33:23.411  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETStandard,Version=v2.0
+15:33:23.413  1 N - X组件核心库 ©2002-2021 NewLife
+15:33:23.414  1 N - MQConsumer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+15:33:23.414  1 N - MQConsumer 
+15:33:23.414  1 N - 保存配置 C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\Config\Core.config
+15:33:23.434  1 N - 保存配置 C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\Config\Socket.config
+15:33:23.615  1 N - 发现Broker[broker-a]: 172.18.0.4:10911
+
+#Software: MQConsumer
+#ProcessID: 14412 x64
+#AppDomain: MQConsumer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.dll
+#ApplicationType: Console
+#CLR: 3.1.7, .NET Core 3.1.7
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-26
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+15:34:36.844  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETStandard,Version=v2.0
+15:34:36.849  1 N - X组件核心库 ©2002-2021 NewLife
+15:34:36.849  1 N - MQConsumer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+15:34:36.849  1 N - MQConsumer 
+15:34:36.849  1 N - 发现Broker[broker-a]: 172.18.0.4:10911

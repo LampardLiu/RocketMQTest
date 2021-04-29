@@ -1,0 +1,62 @@
+﻿#Software: MQConsumer
+#ProcessID: 280 x64
+#AppDomain: MQConsumer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.dll
+#ApplicationType: Console
+#CLR: 3.1.7, .NET Core 3.1.7
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-29
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+08:53:16.648  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETStandard,Version=v2.0
+08:53:16.653  1 N - X组件核心库 ©2002-2021 NewLife
+08:53:16.653  1 N - MQConsumer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+08:53:16.653  1 N - MQConsumer 
+08:53:16.653  1 N - 发现Broker[broker-a]: 172.10.11.233:10911
+
+#Software: MQConsumer
+#ProcessID: 12656 x64
+#AppDomain: MQConsumer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.dll
+#ApplicationType: Console
+#CLR: 3.1.7, .NET Core 3.1.7
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-29
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+12:37:04.922  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETStandard,Version=v2.0
+12:37:04.926  1 N - X组件核心库 ©2002-2021 NewLife
+12:37:04.927  1 N - MQConsumer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:37:04.927  1 N - MQConsumer 
+12:37:04.927  1 N - 发现Broker[broker-a]: 172.10.11.233:10911
+
+#Software: MQConsumer
+#ProcessID: 33724 x64
+#AppDomain: MQConsumer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQConsumer\bin\Debug\netcoreapp3.1\MQConsumer.dll
+#ApplicationType: Console
+#CLR: 3.1.7, .NET Core 3.1.7
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-29
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+12:37:30.581  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETStandard,Version=v2.0
+12:37:30.586  1 N - X组件核心库 ©2002-2021 NewLife
+12:37:30.586  1 N - MQConsumer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:37:30.586  1 N - MQConsumer 
+12:37:30.586  1 N - 发现Broker[broker-a]: 172.10.11.233:10911

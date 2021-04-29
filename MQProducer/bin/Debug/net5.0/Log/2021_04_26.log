@@ -1,0 +1,247 @@
+﻿#Software: MQProducer
+#ProcessID: 17852 x64
+#AppDomain: MQProducer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.dll
+#ApplicationType: Console
+#CLR: 5.0.0, .NET 5.0.0-rc.2.20475.5
+#OS: Microsoft Windows NT 10.0.17763.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-26
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+14:24:03.710  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETCoreApp,Version=v5.0
+14:24:03.714  1 N - X组件核心库 ©2002-2021 NewLife
+14:24:03.714  1 N - MQProducer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v5.0
+14:24:03.714  1 N - MQProducer 
+14:24:03.714  1 N - 保存配置 C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\Config\Core.config
+14:24:03.735  1 N - 保存配置 C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\Config\Socket.config
+14:24:03.870  1 N - 发现Broker[broker-a]: 172.18.0.4:10911
+14:24:06.900  1 N - NewLife.XException: [broker-a]集群所有地址连接失败！
+   at NewLife.RocketMQ.ClusterClient.EnsureCreate()
+   at NewLife.RocketMQ.ClusterClient.Start()
+   at NewLife.RocketMQ.BrokerClient.Start()
+   at NewLife.RocketMQ.Client.MqBase.GetBroker(String name)
+   at NewLife.RocketMQ.Producer.Publish(Message msg, Int32 timeout)
+   at MQProducer.Program.Main(String[] args) in C:\Users\Administrator\source\repos\MQDemo\MQProducer\Program.cs:line 30
+
+#Software: MQProducer
+#ProcessID: 13520 x64
+#AppDomain: MQProducer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.dll
+#ApplicationType: Console
+#CLR: 5.0.0, .NET 5.0.0-rc.2.20475.5
+#OS: Microsoft Windows NT 10.0.17763.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-26
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+14:24:27.800  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETCoreApp,Version=v5.0
+14:24:27.824  1 N - X组件核心库 ©2002-2021 NewLife
+14:24:27.824  1 N - MQProducer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v5.0
+14:24:27.824  1 N - MQProducer 
+14:24:27.824  1 N - 发现Broker[broker-a]: 172.18.0.4:10911
+14:24:30.845  1 N - NewLife.XException: [broker-a]集群所有地址连接失败！
+   at NewLife.RocketMQ.ClusterClient.EnsureCreate()
+   at NewLife.RocketMQ.ClusterClient.Start()
+   at NewLife.RocketMQ.BrokerClient.Start()
+   at NewLife.RocketMQ.Client.MqBase.GetBroker(String name)
+   at NewLife.RocketMQ.Producer.Publish(Message msg, Int32 timeout)
+   at MQProducer.Program.Main(String[] args) in C:\Users\Administrator\source\repos\MQDemo\MQProducer\Program.cs:line 30
+14:24:30.874  1 N - 异常退出！
+
+#Software: MQProducer
+#ProcessID: 14324 x64
+#AppDomain: MQProducer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.dll
+#ApplicationType: Console
+#CLR: 5.0.0, .NET 5.0.0-rc.2.20475.5
+#OS: Microsoft Windows NT 10.0.17763.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-26
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+14:26:37.567  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETCoreApp,Version=v5.0
+14:26:37.571  1 N - X组件核心库 ©2002-2021 NewLife
+14:26:37.571  1 N - MQProducer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v5.0
+14:26:37.571  1 N - MQProducer 
+14:26:37.571  1 N - 发现Broker[broker-a]: 172.18.0.4:10911
+14:26:40.591  1 N - NewLife.XException: [broker-a]集群所有地址连接失败！
+   at NewLife.RocketMQ.ClusterClient.EnsureCreate()
+   at NewLife.RocketMQ.ClusterClient.Start()
+   at NewLife.RocketMQ.BrokerClient.Start()
+   at NewLife.RocketMQ.Client.MqBase.GetBroker(String name)
+   at NewLife.RocketMQ.Producer.Publish(Message msg, Int32 timeout)
+   at MQProducer.Program.Main(String[] args) in C:\Users\Administrator\source\repos\MQDemo\MQProducer\Program.cs:line 30
+14:26:40.622  1 N - 异常退出！
+
+#Software: MQProducer
+#ProcessID: 19000 x64
+#AppDomain: MQProducer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.dll
+#ApplicationType: Console
+#CLR: 5.0.0, .NET 5.0.0-rc.2.20475.5
+#OS: Microsoft Windows NT 10.0.17763.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-26
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+14:27:12.718  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETCoreApp,Version=v5.0
+14:27:12.723  1 N - X组件核心库 ©2002-2021 NewLife
+14:27:12.724  1 N - MQProducer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v5.0
+14:27:12.724  1 N - MQProducer 
+14:27:12.724  1 N - 发现Broker[broker-a]: 172.18.0.4:10911
+14:27:15.745  1 N - NewLife.XException: [broker-a]集群所有地址连接失败！
+   at NewLife.RocketMQ.ClusterClient.EnsureCreate()
+   at NewLife.RocketMQ.ClusterClient.Start()
+   at NewLife.RocketMQ.BrokerClient.Start()
+   at NewLife.RocketMQ.Client.MqBase.GetBroker(String name)
+   at NewLife.RocketMQ.Producer.Publish(Message msg, Int32 timeout)
+   at MQProducer.Program.Main(String[] args) in C:\Users\Administrator\source\repos\MQDemo\MQProducer\Program.cs:line 30
+
+#Software: MQProducer
+#ProcessID: 15200 x64
+#AppDomain: MQProducer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.dll
+#ApplicationType: Console
+#CLR: 5.0.0, .NET 5.0.0-rc.2.20475.5
+#OS: Microsoft Windows NT 10.0.17763.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-26
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+14:27:40.216  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETCoreApp,Version=v5.0
+14:27:40.220  1 N - X组件核心库 ©2002-2021 NewLife
+14:27:40.221  1 N - MQProducer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v5.0
+14:27:40.221  1 N - MQProducer 
+14:27:40.221  1 N - 发现Broker[broker-a]: 172.18.0.4:10911
+14:27:43.243  1 N - NewLife.XException: [broker-a]集群所有地址连接失败！
+   at NewLife.RocketMQ.ClusterClient.EnsureCreate()
+   at NewLife.RocketMQ.ClusterClient.Start()
+   at NewLife.RocketMQ.BrokerClient.Start()
+   at NewLife.RocketMQ.Client.MqBase.GetBroker(String name)
+   at NewLife.RocketMQ.Producer.Publish(Message msg, Int32 timeout)
+   at MQProducer.Program.Main(String[] args) in C:\Users\Administrator\source\repos\MQDemo\MQProducer\Program.cs:line 30
+14:27:43.275  1 N - 异常退出！
+
+#Software: MQProducer
+#ProcessID: 21860 x64
+#AppDomain: MQProducer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.dll
+#ApplicationType: Console
+#CLR: 5.0.0, .NET 5.0.0-rc.2.20475.5
+#OS: Microsoft Windows NT 10.0.17763.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-26
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+14:30:46.676  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETCoreApp,Version=v5.0
+14:30:46.680  1 N - X组件核心库 ©2002-2021 NewLife
+14:30:46.680  1 N - MQProducer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v5.0
+14:30:46.680  1 N - MQProducer 
+14:30:46.680  1 N - 发现Broker[broker-a]: 172.18.0.4:10911
+14:30:49.701  1 N - NewLife.XException: [broker-a]集群所有地址连接失败！
+   at NewLife.RocketMQ.ClusterClient.EnsureCreate()
+   at NewLife.RocketMQ.ClusterClient.Start()
+   at NewLife.RocketMQ.BrokerClient.Start()
+   at NewLife.RocketMQ.Client.MqBase.GetBroker(String name)
+   at NewLife.RocketMQ.Producer.Publish(Message msg, Int32 timeout)
+   at MQProducer.Program.Main(String[] args) in C:\Users\Administrator\source\repos\MQDemo\MQProducer\Program.cs:line 30
+14:30:49.732  1 N - 异常退出！
+
+#Software: MQProducer
+#ProcessID: 17664 x64
+#AppDomain: MQProducer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.dll
+#ApplicationType: Console
+#CLR: 5.0.0, .NET 5.0.0-rc.2.20475.5
+#OS: Microsoft Windows NT 10.0.17763.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-26
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+15:45:07.861  1 N - [Name]集群地址：Tcp://127.0.0.1:9876
+15:45:07.864  1 N - [Name]正在连接[Tcp://127.0.0.1:9876]
+15:45:07.911  1 N - Tcp.Open Tcp://0.0.0.0=>127.0.0.1:9876
+15:45:07.999  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETCoreApp,Version=v5.0
+15:45:07.999  1 N - X组件核心库 ©2002-2021 NewLife
+15:45:07.999  1 N - MQProducer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v5.0
+15:45:07.999  1 N - MQProducer 
+15:45:07.999  1 N - 发现Broker[broker-a]: 172.18.0.4:10911
+15:45:08.005  1 N - [broker-a]集群地址：Tcp://172.18.0.4:10911
+15:45:08.005  1 N - [broker-a]正在连接[Tcp://172.18.0.4:10911]
+15:45:08.005  1 N - Tcp.Open Tcp://0.0.0.0=>172.18.0.4:10911
+15:45:11.007  1 N - Tcp.ConnectError Tcp://0.0.0.0=>172.18.0.4:10911 连接[Tcp://172.18.0.4:10911][3000ms]超时！
+15:45:11.019  1 N - NewLife.XException: [broker-a]集群所有地址连接失败！
+   at NewLife.RocketMQ.ClusterClient.EnsureCreate()
+   at NewLife.RocketMQ.ClusterClient.Start()
+   at NewLife.RocketMQ.BrokerClient.Start()
+   at NewLife.RocketMQ.Client.MqBase.GetBroker(String name)
+   at NewLife.RocketMQ.Producer.Publish(Message msg, Int32 timeout)
+   at MQProducer.Program.Main(String[] args) in C:\Users\Administrator\source\repos\MQDemo\MQProducer\Program.cs:line 41
+15:45:11.049  1 N - 异常退出！
+
+#Software: MQProducer
+#ProcessID: 21984 x64
+#AppDomain: MQProducer
+#FileName: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.exe
+#BaseDirectory: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\
+#TempPath: C:\Users\Administrator\AppData\Local\Temp\
+#CommandLine: C:\Users\Administrator\source\repos\MQDemo\MQProducer\bin\Debug\net5.0\MQProducer.dll
+#ApplicationType: Console
+#CLR: 5.0.0, .NET 5.0.0-rc.2.20475.5
+#OS: Microsoft Windows NT 10.0.17763.0, DESKTOP-UKMU2VP/Administrator
+#CPU: 12
+#GC: IsServerGC=False, LatencyMode=Interactive
+#Date: 2021-04-26
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+15:45:37.776  1 N - [Name]集群地址：Tcp://127.0.0.1:9876
+15:45:37.779  1 N - [Name]正在连接[Tcp://127.0.0.1:9876]
+15:45:37.825  1 N - Tcp.Open Tcp://0.0.0.0=>127.0.0.1:9876
+15:45:37.906  1 N - NewLife.Core v8.10.2021.0404 Build 2021-04-04 23:21:52 .NETCoreApp,Version=v5.0
+15:45:37.906  1 N - X组件核心库 ©2002-2021 NewLife
+15:45:37.906  1 N - MQProducer v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v5.0
+15:45:37.906  1 N - MQProducer 
+15:45:37.906  1 N - 发现Broker[broker-a]: 172.18.0.4:10911
+15:45:37.913  1 N - [broker-a]集群地址：Tcp://172.18.0.4:10911
+15:45:37.913  1 N - [broker-a]正在连接[Tcp://172.18.0.4:10911]
+15:45:37.913  1 N - Tcp.Open Tcp://0.0.0.0=>172.18.0.4:10911
+15:45:40.914  1 N - Tcp.ConnectError Tcp://0.0.0.0=>172.18.0.4:10911 连接[Tcp://172.18.0.4:10911][3000ms]超时！
+15:45:40.922  1 N - NewLife.XException: [broker-a]集群所有地址连接失败！
+   at NewLife.RocketMQ.ClusterClient.EnsureCreate()
+   at NewLife.RocketMQ.ClusterClient.Start()
+   at NewLife.RocketMQ.BrokerClient.Start()
+   at NewLife.RocketMQ.Client.MqBase.GetBroker(String name)
+   at NewLife.RocketMQ.Producer.Publish(Message msg, Int32 timeout)
+   at NewLife.RocketMQ.Producer.Publish(Object body, String tags, String keys, Int32 timeout)
+   at NewLife.RocketMQ.Producer.Publish(Object body, String tags, Int32 timeout)
+   at MQProducer.Program.Main(String[] args) in C:\Users\Administrator\source\repos\MQDemo\MQProducer\Program.cs:line 33
+15:45:40.950  1 N - 异常退出！
